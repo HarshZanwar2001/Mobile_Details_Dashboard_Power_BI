@@ -1,2 +1,2 @@
 # Mobile_Details_Dashboard_Power_BI
-![Home page app](https://user-images.githubusercontent.com/103484532/188430441-d8ea4204-2ad8-4827-8d61-c2764ee761de.jpg)
+![Screenshot 2023-10-13 234628](https://github.com/HarshZanwar2001/Mobile_Details_Dashboard_Power_BI/assets/103484532/6547fad2-0ec5-4ac0-914a-c6a2d85c0109)
